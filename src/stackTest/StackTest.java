@@ -12,7 +12,7 @@ public class StackTest {
 	 * testNameThrows() throws Exception { throw new IllegalArgumentException();
 	 * }
 	 */
-
+	//new comment
 	@Test
 	public void newStackHasNoElements() {
 		Stack stack = new Stack();
